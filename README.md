@@ -2,24 +2,17 @@
   <img alt="whatssap-home" src="./whatssapinit.png" width="100% "
   >
 </p>
-
-
-<p align='center'> Whatssap iniciado<p/>
+<p align='center'> Whatssap 1/3 finish<p/>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-Tecnologias">Tecnologias</a>
-
-
+</p>
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=Mit&color=49AA26&labelColor=000000">
 </p>
-
 <br>
-
-
 
 ## 🚀 Tecnologias
 
@@ -32,11 +25,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - react
 
 [Backend]
-- Next
+- Next 
 
+[Lint]
+
+- eu geralmente uso versão <strong>airbnb</strong> que possui ; 
+mas ocasionalmente troco pela <strong>standard</strong>.
 ## 💻 Projeto
 
-O projeto sera a home page do netflix irei atualizar depois adicionar trailer.
+O projeto sera o whatssap, usando react no front e next no back.
 
 ## :memo: Licença
 
@@ -62,7 +59,4 @@ $ npm
 $ npm run
 
 ```
-
-
-
 ---
