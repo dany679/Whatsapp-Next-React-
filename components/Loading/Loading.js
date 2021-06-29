@@ -24,7 +24,7 @@ function Loading() {
             alignItems: 'center',
           }}
         />
-        <Circle color='#3cbc28' size='5vh' />
+        <Circle color='#3cbc28' style={{ size: '5vh' }} />
       </div>
     </center>
   );

@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="whatssap-home" src="./whatssapinit.png" width="100% "
+  <img alt="whatssap-home" src="./whatsapp60.png" width="100% "
   >
 </p>
-<p align='center'> Whatssap 1/3 finish<p/>
+<p align='center'> Whatssap 2/3 finish<p/>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,11 +26,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 [Backend]
 - Next 
+-Firebase
 
 [Lint]
 
 - eu geralmente uso versão <strong>airbnb</strong> que possui ; 
 mas ocasionalmente troco pela <strong>standard</strong>.
+
 ## 💻 Projeto
 
 O projeto sera o whatssap, usando react no front e next no back.
