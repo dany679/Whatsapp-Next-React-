@@ -27,13 +27,13 @@ export default Chat;
 
 export async function getServerSideProps(context) {
   const ref = db.collection('chats').doc(context.query.id);
-  const messagesRef = await ref
+  const messagesRes = await ref
     .collection('messages')
     .orderBy('timestamp', 'asc')
     .get();
 
-  const messages = messagesRef.docs
-    .map(() => ({
+  const messages = messagesRes.docs
+    .map((doc) => ({
       id: doc.id,
       ...doc.data(),
     }))

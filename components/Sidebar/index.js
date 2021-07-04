@@ -86,9 +86,22 @@ const SidebarButton = styled(Button)`
     border-top: 1px solid whitesmoke;
   }
 `;
+const Container = styled.div`
+  flex: 0.45;
+  min-width: 300px;
+  max-width: 350px;
+  height: 100vh;
+  border-color: 1px solid whitesmoke;
+  */ ::-webkit-scrollbar {
+    display: none;
+  }
+  overflow-y: scroll;
+  -ms-overflow-style: none; // edge / brave
+  scrollbar-width: none; //fiferox
+`;
+
 const IconsContainer = styled.div``;
 
-const Container = styled.div``;
 const Header = styled.div`
   background-color: white;
   height: 80px;

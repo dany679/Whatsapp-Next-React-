@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="whatssap-home" src="./whatsapp60.png" width="100% "
+  <img alt="whatsapp-home" src="./whatsapp60.png" width="100% "
   >
 </p>
-<p align='center'> Whatssap 2/3 finish<p/>
+<p align='center'> finish<p/>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
